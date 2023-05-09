@@ -1,5 +1,4 @@
-# Discord Support Server
-https://discord.gg/faeM7p92pz
+
 
 # VALORANT Agent Yoinker
 A VALORANT tool for instalocking agents using the VALORANT API (Updated to include Gekko).
